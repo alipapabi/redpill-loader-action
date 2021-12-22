@@ -11,7 +11,7 @@
     },
     "synoinfo": {
     "maxdisks" : "16",
-    "maxlanport" : "4",
+    "maxlanport" : "8",
     },
     "ramdisk_copy": {},
     "extensions": []
