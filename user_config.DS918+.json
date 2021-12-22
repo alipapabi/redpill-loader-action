@@ -5,12 +5,13 @@
     "sn": "125XXXX",
     "netif_num":"4",
     "mac1": "0011XXX1",
-    "mac2": "0011XXX2"
-    "mac3": "0011XXX3"
+    "mac2": "0011XXX2",
+    "mac3": "0011XXX3",
     "mac4": "0011XXX4"
     },
     "synoinfo": {
-    "maxlanport" : "8",
+    "maxdisks" : "24",
+    "maxlanport" : "6"
     },
     "ramdisk_copy": {},
     "extensions": []
