@@ -10,7 +10,6 @@
     "mac4": "0011XXX4"
     },
     "synoinfo": {
-    "maxdisks" : "16",
     "maxlanport" : "8",
     },
     "ramdisk_copy": {},
